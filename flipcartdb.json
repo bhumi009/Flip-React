@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "f344",
+      "title": "iphone",
+      "brand": "mac",
+      "price": "50,000",
+      "description": "good",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "productId": "I14",
+      "title": "23",
+      "brand": "SAMSUNG Galaxy F34 5G ",
+      "price": "₹15,999",
+      "description": "Bank Offer10% off on ICICI Bank Credit Card, up to ₹1500 on orders of ₹5,000 and aboveT&C",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/k/x/-original-imagtrrqkxprtd4n.jpeg?q=70",
+      "id": 2
+    }
+  ]
+}
